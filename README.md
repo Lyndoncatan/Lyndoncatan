@@ -38,12 +38,11 @@ Passionate about building scalable web applications, crafting beautiful UI/UX de
 
 ---
 
+
 ## 📫 Get in Touch
-<p align="center">
 📧 Email: [Lyndoncatan75@gmail.com](mailto:Lyndoncatan75@gmail.com)  
-🔗 LinkedIn: [Lyndon Domini M. Catan](https://www.linkedin.com/in/lyndon-domini-m-catan/)
+🔗 LinkedIn: [Lyndon Domini M. Catan](https://www.linkedin.com/in/lyndon-domini-m-catan/)  
 🌐 Portfolio: [catanlyndonportfolio.vercel.app](https://catanlyndonportfolio.vercel.app/)
-</p>
 
 
 ## 📊 GitHub Stats
@@ -54,6 +53,7 @@ Passionate about building scalable web applications, crafting beautiful UI/UX de
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
 </p>
+
 
 
 <p align="center">⭐ **Feel free to explore my repositories and drop a star if you like my work!** ⭐
