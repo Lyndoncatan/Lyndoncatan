@@ -40,10 +40,19 @@ Passionate about building scalable web applications, crafting beautiful UI/UX de
 
 
 ## 📫 Get in Touch
-📧 Email: [Lyndoncatan75@gmail.com](mailto:Lyndoncatan75@gmail.com)  
-🔗 LinkedIn: [Lyndon Domini M. Catan](https://www.linkedin.com/in/lyndon-domini-m-catan/)  
-🌐 Portfolio: [catanlyndonportfolio.vercel.app](https://catanlyndonportfolio.vercel.app/)
-
+<p align="center">
+  <a href="mailto:Lyndoncatan75@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Lyndoncatan75@gmail.com-blue?style=for-the-badge&logo=gmail"/>
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/lyndon-domini-m-catan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Lyndon%20Domini%20M.%20Catan-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <br>
+  <a href="https://catanlyndonportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-green?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
 
 ## 📊 GitHub Stats
