@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lyndoncatan&label=Profile%20Views&color=blue&style=flat-square)
 
-<p align="center"> <h2># Hi, I'm Lyndon Domini Catan! </h2>👋<p/>
+<p align="center"> <h2># Hi, I'm Lyndon Domini Catan! 👋 </h2> <p/>
 
 
 
