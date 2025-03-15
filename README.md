@@ -57,15 +57,15 @@ Passionate about building scalable web applications, crafting beautiful UI/UX de
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyndoncatan&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyndoncatan&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyndoncatan&layout=compact&theme=radical" />
+  <a href="mailto:Lyndoncatan75@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lyndon-domini-m-catan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://catanlyndonportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-green?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 
