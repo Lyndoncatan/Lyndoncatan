@@ -46,13 +46,13 @@ Passionate about building scalable web applications, crafting beautiful UI/UX de
 
 
 ## 📊 GitHub Stats
-<p align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
-</p>
+
 
 
 
