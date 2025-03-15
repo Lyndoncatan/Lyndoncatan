@@ -45,13 +45,19 @@ Passionate about building scalable web applications, crafting beautiful UI/UX de
 🌐 Portfolio: [catanlyndonportfolio.vercel.app](https://catanlyndonportfolio.vercel.app/)
 
 
-## 📊 GitHub Stats
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyndoncatan&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lyndoncatan&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyndoncatan&layout=compact&theme=radical" />
+</p>
 
 
 
