@@ -1,30 +1,51 @@
-![image](--------------)
-)
+![Profile Views](https://komarev.com/ghpvc/?username=lyndoncatan&label=Profile%20Views&color=blue&style=flat-square)
 
-# Hi there! 👋 I'm Lyndon Domini Catan
+# Hi, I'm Lyndon Domini Catan! 👋
 
-🚀 **Full-Stack Developer | UI/UX Designer | Web Enthusiast**
+```python
+# Typing animation using markdown (GitHub Readme Typing SVG)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Passionate+about+Web+Development;Frontend+%7C+UI%2FUX+%7C+Full-Stack)
+```
 
-Passionate about building scalable web applications, crafting beautiful UI/UX designs, and optimizing user experiences. I specialize in **frontend & backend development**, creating sleek, modern interfaces and robust server-side solutions.
+## 👨‍💻 About Me
+Passionate about building scalable web applications, crafting beautiful UI/UX designs, and optimizing user experiences. I specialize in frontend, creating sleek, modern interfaces and robust server-side solutions.
+
+📌 [LinkedIn](https://www.linkedin.com/in/lyndon-domini-m-catan)
 
 ---
 
 ## 🛠 Tech Stack
-
-### Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-
-### Tools & Others:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,supabase,sql,git,github,figma,vscode,eclipse" />
+</p>
 
 ---
+
+## 🏆 Certifications
+<p align="center">
+  <a href="https://courses.cognitiveclass.ai/certificates/22721d0de4754dc5886de40f4bb5f99f" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-Click%20to%20View-blue?style=for-the-badge&logo=oracle"/>
+  </a>
+  <br>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EBD6649F5E8A7E6551637DB112D71CCA118CBB4B7171B05EDC3CDC78C3F65574" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Certified%20Foundations%20Associate-Click%20to%20View-orange?style=for-the-badge&logo=oracle"/>
+  </a>
+  <br>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EBD6649F5E8A7E6551637DB112D71CCAD1DC41B1394EC614343A0F81173C4223" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Data%20Certified%20Foundations%20Associate-Click%20to%20View-red?style=for-the-badge&logo=oracle"/>
+  </a>
+  <br>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EBD6649F5E8A7E6551637DB112D71CCAD1DC41B1394EC614343A0F81173C4223" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Certified%20AI%20Foundations%20Associate-Click%20to%20View-purple?style=for-the-badge&logo=oracle"/>
+  </a>
+</p>
+
+---
+
+## 📫 Get in Touch
+📧 Email: [Lyndoncatan75@gmail.com](mailto:Lyndoncatan75@gmail.com)  
+🔗 LinkedIn: [Lyndon Domini M. Catan](https://www.linkedin.com/in/lyndon-domini-m-catan/)
+
 
 ## 📊 GitHub Stats
 
@@ -34,14 +55,6 @@ Passionate about building scalable web applications, crafting beautiful UI/UX de
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
----
 
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInProfile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
-
----
 
 ⭐ **Feel free to explore my repositories and drop a star if you like my work!** ⭐
