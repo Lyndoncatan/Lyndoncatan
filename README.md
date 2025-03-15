@@ -41,16 +41,17 @@ Passionate about building scalable web applications, crafting beautiful UI/UX de
 ## 📫 Get in Touch
 📧 Email: [Lyndoncatan75@gmail.com](mailto:Lyndoncatan75@gmail.com)  
 🔗 LinkedIn: [Lyndon Domini M. Catan](https://www.linkedin.com/in/lyndon-domini-m-catan/)
+🌐 Portfolio: [catanlyndonportfolio.vercel.app](https://catanlyndonportfolio.vercel.app/)
 
 
 ## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
+</p>
 
 ⭐ **Feel free to explore my repositories and drop a star if you like my work!** ⭐
+
