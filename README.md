@@ -1,18 +1,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lyndoncatan&label=Profile%20Views&color=blue&style=flat-square)
 
-# Hi, I'm Lyndon Domini Catan! 👋
+<p align="center"># Hi, I'm Lyndon Domini Catan! 👋<p/>
 
-```python
-# Typing animation using markdown (GitHub Readme Typing SVG)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Passionate+about+Web+Development;Frontend+%7C+UI%2FUX+%7C+Full-Stack)
-```
+
 
 ## 👨‍💻 About Me
 Passionate about building scalable web applications, crafting beautiful UI/UX designs, and optimizing user experiences. I specialize in frontend, creating sleek, modern interfaces and robust server-side solutions.
 
-📌 [LinkedIn](https://www.linkedin.com/in/lyndon-domini-m-catan)
 
----
 
 ## 🛠 Tech Stack
 <p align="center">
