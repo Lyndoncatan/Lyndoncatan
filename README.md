@@ -47,7 +47,7 @@ Passionate about building scalable web applications, crafting beautiful UI/UX de
   <a href="https://www.linkedin.com/in/lyndon-domini-m-catan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://catanlyndonportfolio.vercel.app/" target="_blank">
+  <a href="https://catandev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-green?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
